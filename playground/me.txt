@@ -1,5 +1,0 @@
-{{#user}
-Name: Aditya Chaudhary
-Skills: HTML, CSS, JS, Node.js, ReactJs, MongoDB, Eostman, Express, C++, Java
-Email: chaudharyaditya1232@gmail.com
-{{/user}}
